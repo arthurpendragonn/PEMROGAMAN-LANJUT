@@ -1,0 +1,7 @@
+C:\Users\Dito\source\repos\UAS\UAS\bin\Debug\UAS.exe.config
+C:\Users\Dito\source\repos\UAS\UAS\bin\Debug\UAS.exe
+C:\Users\Dito\source\repos\UAS\UAS\bin\Debug\UAS.pdb
+C:\Users\Dito\source\repos\UAS\UAS\obj\Debug\UAS.csprojAssemblyReference.cache
+C:\Users\Dito\source\repos\UAS\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+C:\Users\Dito\source\repos\UAS\UAS\obj\Debug\UAS.exe
+C:\Users\Dito\source\repos\UAS\UAS\obj\Debug\UAS.pdb
